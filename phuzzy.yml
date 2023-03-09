@@ -1,0 +1,7 @@
+name: logik
+dependencies:
+  - python=3.11
+  - wikipedia-api
+  - Flask
+  - jsonify
+  
